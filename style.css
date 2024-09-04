@@ -1,0 +1,14 @@
+body {
+  font-family: Verdana;
+  text-align: center;
+}
+
+#myButton {
+  align-items: center;
+  font-size: 3em;
+  padding: 5px 25px;
+  border-radius: 25px;
+}
+.myLabels {
+  font-size: 3em;
+}
